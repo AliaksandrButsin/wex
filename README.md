@@ -9,4 +9,4 @@ wex - 6
 wex - 7
 wex - 8
 wex - 9
-git config --global --unset gpg.format
+13
