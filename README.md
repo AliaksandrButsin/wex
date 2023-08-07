@@ -7,3 +7,4 @@ wex - 4
 wex - 5
 wex - 6
 wex - 7
+wex - 8
